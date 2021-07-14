@@ -25,7 +25,7 @@ const Leaderships = () => {
           <Col lg={10} className="mx-auto mt-5 text-center">
             <h1 className="text-center mb-5">Leadership Courses</h1>
             <h4 className="mb-4">
-              PMcoaching - offers it's members one of the top world's best course in XXX area!
+              PMcoaching - offers it's members one of the top world's best course in Leadership area!
             </h4>
             <Nav navbar>
               {leaderships.map((leadership) => (

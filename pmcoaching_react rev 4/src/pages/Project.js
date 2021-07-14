@@ -74,7 +74,7 @@ const Controls = () => {
 
   return (
     <>
-      <Button variant="primary" size="md" block>Buy Course</Button>
+      <Button variant="primary" size="md" block>Learn More</Button>
       <Button variant="secondary" size="md" block onClick={bookAppointment}>Book Appointment</Button>
     </>
   )
